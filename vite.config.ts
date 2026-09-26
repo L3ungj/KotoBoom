@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/MikuContest2026/',
+  base: '/KotoBoom/',
   plugins: [
     react(),
     tailwindcss()

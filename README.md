@@ -5,7 +5,7 @@ An entry to the 2026 Magical Mirai Programming Contest
 This project is a 3D lyrics visualiser that shows words as fireworks in a night sky. Users can wander around the scene by controlling the character Hastune Miku.
 
 ### Usage
-1. Go to the [GitHub Pages site](https://l3ungj.github.io/MikuContest2026/) 
+1. Go to the [GitHub Pages site](https://l3ungj.github.io/KotoBoom/) 
 2. Select a song by pressing the music icon in the bottom right corner
 3. Use WASD controls or touch controls to move around the scene
 4. Press the Camera / Eye icon in the bottom left corner to switch between first-person and orbit camera modes
